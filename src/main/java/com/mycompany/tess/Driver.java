@@ -1,6 +1,6 @@
 package com.mycompany.tess;
 
-import com.mycompany.mavenproject2.Counter;
+import com.mycompany.tess.Counter;
 
 public class Driver {
 
